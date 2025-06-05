@@ -55,5 +55,12 @@ This project predicts a user's **critical thinking aptitude level** based on the
 3. Fill in the details and click **Predict Aptitude Bucket**.
 
 4. View results and download the PDF report.
+5. ## 🚀 Live Demo
+
+🔗 **Try the App Now**:  
+[ChatGPT Critical Thinking Level Predictor](https://chatgptcriticalthinkinglevelpredictor-hpnd9rz6gjafrxqxedzzze.streamlit.app/)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatgptcriticalthinkinglevelpredictor-hpnd9rz6gjafrxqxedzzze.streamlit.app/)
+
 
 
